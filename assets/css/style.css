@@ -1,0 +1,213 @@
+
+
+body{
+    background-color:  #262936;
+    
+    
+  
+
+}
+.navbar {
+    background-color:  #384374;
+    color: #bfc1c8;
+    font-size:18px;
+    padding-right: 450px;
+    
+   
+
+}
+
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    text-shadow:5px 5px 10px whitesmoke;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /**margin-top: 100px;*/
+    justify-content: center;
+   
+ 
+}
+
+.mb-5, .define {
+    color: #384374;
+    text-emphasis: outline black;
+
+}
+h3 {
+    color: rgb(134, 115, 115);
+    text-shadow:5px 5px 10px white;
+}
+
+.loc-but { 
+    background-color: rgb(65, 155, 155);
+    color: whitesmoke;
+}
+
+#out {
+    color: dark rgb(68, 62, 62);
+    font-size: 25px;
+    text-align: center;
+    justify-content: center;
+    margin-right:150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bolder;
+    margin-left: 250px;
+    align-content: center;
+    padding-top:75px;
+    
+
+  
+    
+}
+
+#geocoderLanding{
+    margin-left: 300px;
+    height: 140px;
+    padding-top: 100px;
+    align-content: center;
+
+}
+#loc-search {
+    align-content: center;
+
+
+}
+
+
+
+header.masthead {
+    position: relative;
+    background-color: #343a40;
+    background: url("../images/landing-back.png") no-repeat center center;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 8rem;
+    
+  }
+
+  /*.map-confirm{
+      padding-top: 300px;
+      padding-left: 135px;
+      
+     
+  }*/
+
+ .meetup {
+     padding-left: 50px;
+ }
+
+ .forecast, .fav {
+     padding-left: 120px;
+
+ }
+.features-icons {
+    background-color:  rgb(255, 255, 255);
+    padding-top: 20px;
+
+}
+
+#confirm {
+    background-color: #384374;
+    color: white;
+    font-size: 20px;
+    
+    width:200px;
+   
+
+}
+
+.text-left {
+    margin-left:315px;
+    padding-top: 10px;
+    
+    
+}
+
+#overall {
+
+  padding-top:150px;
+  margin-left:150px;
+ 
+  align-content: center;
+
+}
+
+
+ 
+
+/**#map{
+    height: 350px;
+    width: 350px;
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    opacity: 0.5;
+   
+   
+}
+
+.form-inline{
+    justify-content: center;
+    padding-top:  250px;
+}
+
+#submit {
+    background-color: green;
+}
+
+
+
+#main-map{
+    width: auto;
+    justify-content: left;
+    margin-left: 250px;
+
+}
+
+#forecast{
+    width: 300px;
+    height: 100px;
+    margin-left: 0px;
+    margin-top: 25px;
+    margin-right: 150px;
+}
+
+.x{
+    width:150px;
+    
+    margin-left: 200px;
+}
+
+.input-group {
+    margin-left: 200px;
+
+
+}
+.row-x{
+    margin-left: 775px;
+}
+
+.input {
+    justify-content: center;
+    width: 150px;
+}
+.form-inline {
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
