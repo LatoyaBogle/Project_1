@@ -19,7 +19,7 @@ $(document).ready(function() {
     //initialize firebase
     var config = {
         apiKey: "AIzaSyCaaVLGtweo-y8eKAUeKh963gaqCGcX2tg",
-        authDomain: "gwbootcamp-97ba0.firebaseapp.com",
+        authDomain: "gwbootcamp-a3241.firebaseapp.com",
         databaseURL: "https://gwbootcamp-a3241.firebaseio.com",
         projectId: "gwbootcamp-a3241",
         storageBucket: "gwbootcamp-a3241.appspot.com",
