@@ -2,13 +2,13 @@
 $(document).ready(function() {
   //initialize firebase
   var config = {
-      apiKey: "AIzaSyC9pE2ORuZUcAnZM_4fnUDSScgurVLBbN8",
-      authDomain: "gwbootcamp-97ba0.firebaseapp.com",
-      databaseURL: "https://gwbootcamp-97ba0.firebaseio.com",
-      projectId: "gwbootcamp-97ba0",
-      storageBucket: "gwbootcamp-97ba0.appspot.com",
-      messagingSenderId: "454079581913"
-    };
+        apiKey: "AIzaSyCaaVLGtweo-y8eKAUeKh963gaqCGcX2tg",
+        authDomain: "gwbootcamp-97ba0.firebaseapp.com",
+        databaseURL: "https://gwbootcamp-a3241.firebaseio.com",
+        projectId: "gwbootcamp-a3241",
+        storageBucket: "gwbootcamp-a3241.appspot.com",
+        messagingSenderId: "330048392334"
+        };
 
 
    
